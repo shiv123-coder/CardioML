@@ -1,9 +1,7 @@
 # Heart Disease Prediction & Multi-Model Evaluation
 
-**Pluto Academy AI & Machine Learning Internship — Project 02**  
 - **Author:** Shivshankar Dhareppa Mali  
-- **Offer Letter Ref:** `PA-OL-AIML-2026-0934`  
-- **Dataset Source:** [Heart Disease Dataset (Kaggle / UCI Cleveland)](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)  
+- **Dataset:** [Heart Disease Dataset (Kaggle / UCI Cleveland)](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)  
 - **Interactive Notebook:** [Open in Google Colab](https://colab.research.google.com/github/shiv123-coder/CardioML/blob/main/Heart_Disease_ML_Prediction.ipynb)
 
 ---
